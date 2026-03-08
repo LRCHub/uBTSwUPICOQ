@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "1day (L)",
+  "base_artist": "Farmhouse",
+  "createdAt": "2026-03-08T06:17:53.120340Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1day (L)",
+      "artist": "Farmhouse",
+      "has_synced": false,
+      "path": "select/pl_01_1day_(L)_Farmhouse.txt"
+    }
+  ]
+}
